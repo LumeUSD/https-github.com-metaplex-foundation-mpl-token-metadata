@@ -1,2 +1,20 @@
-# https-github.com-metaplex-foundation-mpl-token-metadata
-Duff mem metadata 
+[
+  {
+    "extension": "metadataPointer",
+    "state": {
+      "authority": null,
+      "metadataAddress": "6C88HUSZJTewjnHmqemehFSr4KHVd2vZL49ZyeSbfzMP"
+    }
+  },
+  {
+    "extension": "tokenMetadata",
+    "state": {
+      "additionalMetadata": [],
+      "mint": "6C88HUSZJTewjnHmqemehFSr4KHVd2vZL49ZyeSbfzMP",
+      "name": "Duff mem",
+      "symbol": "Duff",
+      "updateAuthority": "2vbb7d4FALMEDNXqvQKht7UmovEbhuuUUEs1svaaZggk",
+      "uri": "https://gateway.irys.xyz/E5bZo13vq779hq3DENyJer2uphSgV1GeFMPC8KKCHhj4"
+    }
+  }
+]
